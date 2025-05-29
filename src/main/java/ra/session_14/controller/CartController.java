@@ -1,10 +1,10 @@
-package com.data.controller;
+package ra.session_14.controller;
 
-import com.data.model.CartItem;
-import com.data.model.Product;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;
+import ra.session_14.model.CartItem;
+import ra.session_14.model.Product;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpSession;

@@ -1,6 +1,6 @@
-package com.data.controller;
+package ra.session_14.controller;
 
-import com.data.model.Order;
+import ra.session_14.model.Order;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.*;

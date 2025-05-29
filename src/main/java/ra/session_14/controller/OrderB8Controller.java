@@ -1,12 +1,13 @@
-package com.data.controller;
+package ra.session_14.controller;
 
-import com.data.model.OrderB8;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.ModelAttribute;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
+import ra.session_14.model.OrderB8;
 
 import javax.servlet.http.HttpSession;
 import java.util.ArrayList;

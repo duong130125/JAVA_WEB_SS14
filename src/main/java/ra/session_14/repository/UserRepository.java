@@ -1,6 +1,6 @@
-package com.data.repository;
+package ra.session_14.repository;
 
-import com.data.model.User;
+import ra.session_14.model.User;
 
 public interface UserRepository {
     boolean create(User user);

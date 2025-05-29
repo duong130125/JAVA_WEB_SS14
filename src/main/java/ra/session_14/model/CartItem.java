@@ -1,4 +1,4 @@
-package com.data.model;
+package ra.session_14.model;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

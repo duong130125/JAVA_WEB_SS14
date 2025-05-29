@@ -1,8 +1,5 @@
-package com.data.controller;
+package ra.session_14.controller;
 
-import com.data.dto.UserDTO;
-import com.data.model.User;
-import com.data.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.context.MessageSource;
 import org.springframework.stereotype.Controller;

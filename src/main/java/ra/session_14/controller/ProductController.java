@@ -1,4 +1,4 @@
-package com.data.controller;
+package ra.session_14.controller;
 
 import com.data.model.Product;
 import org.springframework.stereotype.Controller;

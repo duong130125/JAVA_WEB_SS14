@@ -1,7 +1,7 @@
-package com.data.repository;
+package ra.session_14.repository;
 
-import com.data.connection.ConnectionDB;
-import com.data.model.User;
+import ra.session_14.model.User;
+import ra.session_14.utils.ConnectionDB;
 import org.springframework.stereotype.Repository;
 
 import java.sql.CallableStatement;
